@@ -66,7 +66,7 @@ Step 4: Run the Streamlit App
 streamlit run dashboard.py
 🖼️ Dashboard Preview
 
-![Chart 1](images/Chart_1.png)
+![Chart 1][(images/Chart_1.png)](https://github.com/Urmilasc/DSAA_Crypto-Dashboard/blob/master/images/Chart_1.png?raw=true)
 
 ![Chart 2](images/Chart_2.png)
 
