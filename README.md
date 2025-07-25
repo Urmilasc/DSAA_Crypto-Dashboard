@@ -46,7 +46,7 @@ crypto_dashboard/
 
 ### Step 1: Clone the Repository
 
-```bash
+
 git clone https://github.com/your-username/crypto_dashboard.git
 cd crypto_dashboard
 Step 2: Set Up Virtual Environment (Optional)
@@ -64,13 +64,17 @@ pip install pandas matplotlib seaborn streamlit requests
 Step 4: Run the Streamlit App
 
 streamlit run dashboard.py
+
+
 🖼️ Dashboard Preview
 
+### 🔹 Chart 1
 ![Chart 1](images/Chart_1.png)
 
+### 🔹 Chart 2
 ![Chart 2](images/Chart_2.png)
 
-
+### 🔹 Chart 3
 ![Chart 3](images/Chart_3.png)
 
 
