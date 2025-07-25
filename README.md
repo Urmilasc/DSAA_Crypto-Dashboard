@@ -66,3 +66,13 @@ Step 4: Run the Streamlit App
 streamlit run dashboard.py
 🖼️ Dashboard Preview
 
+<img width="1913" height="940" alt="image" src="https://github.com/user-attachments/assets/3c2228ad-7625-4ba1-bfcd-b0f577d416b7" />
+
+<img width="1813" height="959" alt="image" src="https://github.com/user-attachments/assets/6b269ce7-49e5-4958-80eb-8b0470b26b33" />
+
+
+<img width="1868" height="964" alt="image" src="https://github.com/user-attachments/assets/b94fc2c2-dbfa-494b-9861-040f33e3fce6" />
+
+<img width="1843" height="815" alt="image" src="https://github.com/user-attachments/assets/c7bc9566-e5a6-4ea5-9f5f-afb496ce96e8" />
+
+
